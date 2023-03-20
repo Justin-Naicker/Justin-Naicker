@@ -7,12 +7,16 @@
 
 ---
 
-## Skills and Experience
+## 🧰 Languages and Tools
 
-* C# 
-* Unity 
-* Blender 
-* Photoshop
+<img align="left" alt="Java" width= "30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img align="left" alt="Java" width= "30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="Java" width= "30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+<img align="left" alt="Java" width= "30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" />
+
+
+
+
 
 - 🔭 I’m currently working on game development. 
 - 🌱 I’m currently learning Unity/C#. 
