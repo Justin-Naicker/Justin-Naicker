@@ -3,7 +3,7 @@
 ### Hi there 👋, Justin Naicker
 #### Programming & Design
 
-**About Me:** I'm Justin, and I am a programmer who enjoys developing the systems of video games. I enjoy coding in C# and using the Unity Engine to design games. I also work on other aspects of games such as 3D Modeling and Design and Graphical Interface.
+**About Me:** I'm Justin,a programmer who enjoys developing video games. I code in C# inside the Unity Engine, creating and designing particular systems. I also work on other aspects of games such as 3D Modeling, Design and Graphical Interface.
 
 ## Skills and Experience
 
