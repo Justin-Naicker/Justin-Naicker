@@ -17,7 +17,7 @@
 - 📫 How to reach me: justinnaickerwork@gmail.com 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-Naicker)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-Naicker)](https://github.com/Justin-Naicker/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Justin-Naicker&show_icons=true)  
 
