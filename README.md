@@ -1,7 +1,7 @@
 ![Programming & Design](https://media.licdn.com/dms/image/D4E16AQEdqzhlhmA1vA/profile-displaybackgroundimage-shrink_350_1400/0/1679244589822?e=1684972800&v=beta&t=lbjDFfINi7XcwKq--kT-bP3R39eenl4RY7OmynRlpNI)
 
-### Hi there 👋, Justin Naicker
-#### Programming & Design
+# Justin Naicker
+**`Programming & Design`**
 
 **About Me:** I'm Justin,a programmer who enjoys developing video games. I code in C# inside the Unity Engine, creating and designing particular systems. I also work on other aspects of games such as 3D Modeling, Design and Graphical Interface.
 
