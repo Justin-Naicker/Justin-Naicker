@@ -5,3 +5,4 @@ I'm Justin, and I am a programmer who enjoys to develop the systems of videogame
 Check out my LinkedIn at https://www.linkedin.com/in/justin-naicker-1a6942269/
 
 [![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justin-Naicker)](https://github.com/Justin-Naicker/github-readme-stats)
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justin-Naicker&show_icons=true&theme=radical)
