@@ -3,7 +3,7 @@
 
 ![Programming & Design](https://media.licdn.com/dms/image/D4E16AQEdqzhlhmA1vA/profile-displaybackgroundimage-shrink_350_1400/0/1679244589822?e=1684972800&v=beta&t=lbjDFfINi7XcwKq--kT-bP3R39eenl4RY7OmynRlpNI)
 
-**About Me** I'm Justin, and I am a programmer who enjoys developing the systems of video games. I enjoy coding in C# and using the Unity Engine to design games. I also work on other aspects of games such as 3D Modeling and Design and Graphical Interface.
+**About Me:** I'm Justin, and I am a programmer who enjoys developing the systems of video games. I enjoy coding in C# and using the Unity Engine to design games. I also work on other aspects of games such as 3D Modeling and Design and Graphical Interface.
 
 ## Skills and Experience
 
