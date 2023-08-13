@@ -31,4 +31,5 @@
 <br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Justin-Naicker&show_icons=true)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Justin-Naicker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/justin-naicker-1a6942269/)  
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="justin-naicker-1a6942269" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/justin-naicker-1a6942269?trk=profile-badge">Justin Naicker</a></div>
+              
