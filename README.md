@@ -1,5 +1,3 @@
-![Programming & Design](https://media.licdn.com/dms/image/D4E16AQEdqzhlhmA1vA/profile-displaybackgroundimage-shrink_350_1400/0/1679244589822?e=1684972800&v=beta&t=lbjDFfINi7XcwKq--kT-bP3R39eenl4RY7OmynRlpNI)
-
 # Justin Naicker
 **`Programming & Design`**
 
