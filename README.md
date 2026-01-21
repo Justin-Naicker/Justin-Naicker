@@ -34,5 +34,5 @@
 
 ### LinkedIn
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="justin-naicker-1a6942269" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/justin-naicker-1a6942269?trk=profile-badge">Justin Naicker</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="justin-naicker-1a6942269" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/justin-naicker/">Justin Naicker</a></div>
               
