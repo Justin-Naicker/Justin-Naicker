@@ -15,19 +15,9 @@
 
 <br/>
 
-#
-
 - 🔭 I’m currently working on Machine Learning Projects.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: justinnaickerwork@gmail.com 
-
-**`Languages`**
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-Naicker)](https://github.com/Justin-Naicker/github-readme-stats)
-
-**`Statistics`**
-<br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Justin-Naicker&show_icons=true)  
 
 
 ### LinkedIn
