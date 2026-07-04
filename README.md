@@ -1,7 +1,7 @@
 # Justin Naicker
 **`Programming & Design`**
 
-**About Me:** Hello! I am Justin. An aspiring developer interested in Game Development and Machine Learning.
+**About Me:** Hello! I am Justin. An aspiring developer interested in ML/AI, SWE and Game Development!.
 
 ---
 
